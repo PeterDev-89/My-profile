@@ -15,8 +15,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -34,10 +32,10 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 <div>
   <div align="center">
     <a href="https://github.com/github_username/repo_name">
@@ -45,22 +43,25 @@
     </a>
 </div>
 
-This was my first project using HTML and CSS to build a simple personal page.
+<br />
+
+<div>
+  <div align="center">
+  This was my first project using HTML and CSS to build a simple personal page.
+</div>
   
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
-* HTML
-* CSS
-* [Font Awesome](https://fontawesome.com)
-  
+- HTML
+- CSS
+- [Font Awesome](https://fontawesome.com)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -69,9 +70,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 Well... There isn't one. I'm not gonna be updating this website. It's just here since it was my first. haha.
@@ -79,17 +79,16 @@ Sometime in the future I'll make a real one, but for now, since I'm focusing sol
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
+
 ## License
 
 There is none. Use it if you feel like it!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Pedro Barbosa - [LinkedIn](https://www.linkedin.com/in/pvbb250689/?locale=en_US)
@@ -98,14 +97,10 @@ Project Link: [https://github.com/PeterDve/My-profile](https://github.com/PeterD
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Le Wagon](https://www.lewagon.com)
-
+- [Le Wagon](https://www.lewagon.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
