@@ -43,7 +43,6 @@ a:hover {
 }
 
 .fa-github {
-  color: #a130d0;
   font-size: 40px;
 }
 
@@ -52,11 +51,6 @@ a:hover {
 }
 
 .fa-instagram {
-  color: radial-gradient(
-    circle,
-    rgba(254, 199, 97, 1) 0%,
-    rgba(156, 53, 188, 1) 100%
-  );
   font-size: 40px;
 }
 
@@ -65,7 +59,6 @@ a:hover {
 }
 
 .fa-linkedin {
-  color: #6279e0;
   font-size: 40px;
 }
 
