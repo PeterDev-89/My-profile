@@ -1,24 +1,24 @@
 body {
-    background-color: #d1f1f3;
-    color: #575F7D;
-    font-family: 'Open Sans', sans-serif;
+  background-color: #d1f1f3;
+  color: #575f7d;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h2 {
-    font-family: 'Roboto', sans-serif;
-    font-size: 25px;
-    font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  font-weight: 500;
 }
 
 a:hover {
-    text-decoration: none;
-    opacity: 80%;
+  text-decoration: none;
+  opacity: 80%;
 }
 
 .container {
-    width: 800px;
-    margin: auto;
-    display: block;
+  width: 800px;
+  margin: auto;
+  display: block;
 }
 
 @media (max-width: 960px) {
@@ -43,59 +43,69 @@ a:hover {
 }
 
 .fa-github {
-    color: #A130D0;
-    font-size: 40px;
+  color: #a130d0;
+  font-size: 40px;
 }
 
 .fa-github:hover {
-    opacity: 40%;
+  opacity: 40%;
 }
 
 .fa-instagram {
-    color: radial-gradient(circle, rgba(254,199,97,1) 0%, rgba(156,53,188,1) 100%);
-    font-size: 40px;
+  color: radial-gradient(
+    circle,
+    rgba(254, 199, 97, 1) 0%,
+    rgba(156, 53, 188, 1) 100%
+  );
+  font-size: 40px;
 }
 
 .fa-instagram:hover {
-    opacity: 40%;
+  opacity: 40%;
 }
 
+.fa-linkedin {
+  color: #6279e0;
+  font-size: 40px;
+}
+
+.fa-linkedin:hover {
+  opacity: 40%;
+}
 
 .card-lightblue {
-    background-color: #eefafa;
-    padding: 40px;
-    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
-    border-radius: 4px;
-    margin: 40px auto;
-    text-align: center;
-
+  background-color: #eefafa;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 40px auto;
+  text-align: center;
 }
 
 p {
-    margin: 30px
+  margin: 30px;
 }
 .img-circle {
-    border-radius: 50%;
+  border-radius: 50%;
 }
 
 .btn-darkblue {
-    background-color: #6B72E1;
-    color: white;
-    padding: 0.9rem 1.25rem;
-    border-radius: 4px;
-
+  background-color: #6b72e1;
+  color: white;
+  padding: 0.9rem 1.25rem;
+  border-radius: 4px;
 }
 
-.list-inline{
-    list-style: none;
-    padding-left: 0px;
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
 }
 
-.list-inline > li{
-    display: inline-block;
-    padding-left: 0px 20px;
+.list-inline > li {
+  display: inline-block;
+  padding-left: 0px 20px;
 }
 
 li {
-    padding: 0px 10px 0px 10px;
+  padding: 0px 10px 0px 10px;
 }
